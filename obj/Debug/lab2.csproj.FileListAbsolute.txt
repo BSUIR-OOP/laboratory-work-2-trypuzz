@@ -1,0 +1,16 @@
+C:\Users\MSI\Desktop\laboratory-work-2-VeronikaBogdanovich744-dev\bin\Debug\OOP_LR2_V2.exe.config
+C:\Users\MSI\Desktop\laboratory-work-2-VeronikaBogdanovich744-dev\bin\Debug\OOP_LR2_V2.exe
+C:\Users\MSI\Desktop\laboratory-work-2-VeronikaBogdanovich744-dev\bin\Debug\OOP_LR2_V2.pdb
+C:\Users\MSI\Desktop\laboratory-work-2-VeronikaBogdanovich744-dev\obj\Debug\lab2.csproj.AssemblyReference.cache
+C:\Users\MSI\Desktop\laboratory-work-2-VeronikaBogdanovich744-dev\obj\Debug\lab2.csproj.SuggestedBindingRedirects.cache
+C:\Users\MSI\Desktop\laboratory-work-2-VeronikaBogdanovich744-dev\obj\Debug\MainWindow.g.cs
+C:\Users\MSI\Desktop\laboratory-work-2-VeronikaBogdanovich744-dev\obj\Debug\App.g.cs
+C:\Users\MSI\Desktop\laboratory-work-2-VeronikaBogdanovich744-dev\obj\Debug\OOP_LR2_V2_MarkupCompile.cache
+C:\Users\MSI\Desktop\laboratory-work-2-VeronikaBogdanovich744-dev\obj\Debug\OOP_LR2_V2_MarkupCompile.lref
+C:\Users\MSI\Desktop\laboratory-work-2-VeronikaBogdanovich744-dev\obj\Debug\MainWindow.baml
+C:\Users\MSI\Desktop\laboratory-work-2-VeronikaBogdanovich744-dev\obj\Debug\OOP_LR2_V2.g.resources
+C:\Users\MSI\Desktop\laboratory-work-2-VeronikaBogdanovich744-dev\obj\Debug\OOP_LR2_V2.Properties.Resources.resources
+C:\Users\MSI\Desktop\laboratory-work-2-VeronikaBogdanovich744-dev\obj\Debug\lab2.csproj.GenerateResource.cache
+C:\Users\MSI\Desktop\laboratory-work-2-VeronikaBogdanovich744-dev\obj\Debug\lab2.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\laboratory-work-2-VeronikaBogdanovich744-dev\obj\Debug\OOP_LR2_V2.exe
+C:\Users\MSI\Desktop\laboratory-work-2-VeronikaBogdanovich744-dev\obj\Debug\OOP_LR2_V2.pdb
